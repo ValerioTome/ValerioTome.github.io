@@ -1,0 +1,45 @@
+body {
+   font-family: 'CopperPot','Helvetica', sans-serif;
+   background-color: rgb(32, 30, 31);
+   color: #333;
+   color:#FFFFFF;
+
+   margin: 0;
+   padding: 0;
+}
+
+header {
+   background-color: #333;
+   padding: 20px;
+   text-align: center;
+   box-shadow: 0px 2px 10px 2px black;
+}
+
+.header-content {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+h1 {
+   margin: 0;
+}
+
+.flag-container {
+   background-color: #FFFFFF;
+   padding: 5;
+   border-radius: 10px;
+   margin-left: 50px;
+}
+
+img {
+   max-width: 200px;
+   height: auto;
+}
+
+.main-page {
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+   background-color: blue;
+}
